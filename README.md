@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI IM SAMI KHAN
 🎓 Computer Science Engineering Student<br>💡 Passionate about Web Development, AI & Problem Solving<br>💻 Exploring Web Dev, Java, and AI<br>✨ Turning ideas into code
 
 
