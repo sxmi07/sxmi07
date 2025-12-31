@@ -1,4 +1,6 @@
-# 💫 HI IM SAMI KHAN
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72ECA&width=435&lines=HEY++ITS++SAMI+HERE+%3F" alt="Typing SVG"
+                                      /></a>
+
 🎓 Computer Science Engineering Student<br>💡 Passionate about Web Development, AI & Problem Solving<br>💻 Exploring Web Dev, Java, and AI<br>✨ Turning ideas into code
 
 
